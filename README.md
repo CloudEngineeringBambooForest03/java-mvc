@@ -40,7 +40,7 @@ _2023-05-08 ~ 2023-05-09_
 
 ![class_diagram](contents/class_diagram.png)
 
-1. **ERD**
+2. **ERD**
 
 `Foreign key`로 이어진 테이블 간의 참조 관계를 이해하는데 도움이 됩니다.
 
@@ -48,7 +48,7 @@ N:M 관계에 있는 `Like` 테이블로 좋아요 기능을 구현하였습니�
 
 ![erd](contents/erd.png)
 
-1. **Model, View, Controller 관계도**
+3. **Model, View, Controller 관계도**
 
 ![mvc_diagram](contents/mvc_diagram.png)
 

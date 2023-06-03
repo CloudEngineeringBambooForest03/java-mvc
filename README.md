@@ -16,15 +16,7 @@ _2023-05-08 ~ 2023-05-09_
 
 ## 멤버
 
-김건영
-
-김혁준
-
-박정현
-
-이연주
-
-황태희
+[김건영](https://github.com/rlarjsdud110), [김혁준](https://github.com/rlagurnws), [박정현](https://github.com/JHyeon00), [이연주](https://github.com/leeyeonjoo123), [황태희](https://github.com/tevem1207)
 
 ## 내용
 
